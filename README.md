@@ -1,4 +1,3 @@
-#### Please read [`Contributing Guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents
 
